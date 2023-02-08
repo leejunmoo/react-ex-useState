@@ -1,0 +1,7 @@
+/* item.module.css */
+
+.item {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+}
